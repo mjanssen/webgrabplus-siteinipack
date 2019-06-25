@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" site="horizon.tv">
+  <channels>
+    <channel update="i" site="horizon.tv" site_id="NL/nld_lgi-nl-prod-master:0063__https://wp20-images-nl-dynamic.horizon.tv/ChannelLogos/02/npo1.png" xmltv_id="1">NPO 1 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="NL/nld_lgi-nl-prod-master:0065__https://wp5-images-nl-dynamic.horizon.tv/ChannelLogos/02/npo2.png" xmltv_id="2">NPO 2 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="NL/nld_lgi-nl-prod-master:0067__https://wp10-images-nl-dynamic.horizon.tv/ChannelLogos/02/npo3.png" xmltv_id="3">NPO 3 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="NL/nld_lgi-nl-prod-master:0091__https://wp3-images-nl-dynamic.horizon.tv/ChannelLogos/02/rtl4_v6.png" xmltv_id="4">RTL 4 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="NL/nld_lgi-nl-prod-master:0092__https://wp24-images-nl-dynamic.horizon.tv/ChannelLogos/02/rtl5_2017.png" xmltv_id="5">RTL 5 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="NL/nld_lgi-nl-prod-master:0096__https://wp19-images-nl-dynamic.horizon.tv/ChannelLogos/02/sbs6_1.png" xmltv_id="6">SBS6 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="NL/nld_lgi-nl-prod-master:0087__https://wp18-images-nl-dynamic.horizon.tv/ChannelLogos/02/rtl7_2017.png" xmltv_id="7">RTL 7 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="NL/nld_lgi-nl-prod-master:0118__https://wp13-images-nl-dynamic.horizon.tv/ChannelLogos/02/veronica_disney_xd3.png" xmltv_id="8">Veronica HD  Disney XD</channel>
+    <channel update="i" site="horizon.tv" site_id="NL/nld_lgi-nl-prod-master:0069__https://wp6-images-nl-dynamic.horizon.tv/ChannelLogos/02/net5_5.png" xmltv_id="9">Net5 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="NL/nld_lgi-nl-prod-master:0089__https://wp17-images-nl-dynamic.horizon.tv/ChannelLogos/02/rtl8_2017.png" xmltv_id="10">RTL 8 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="NL/nld_lgi-nl-prod-master:0244__https://wp8-images-nl-dynamic.horizon.tv/ChannelLogos/02/fox.png" xmltv_id="11">FOX HD</channel>
+    <channel update="i" site="horizon.tv" site_id="NL/nld_lgi-nl-prod-master:8075__https://wp21-images-nl-dynamic.horizon.tv/ChannelLogos/02/rtl_z.png" xmltv_id="12">RTL Z HD</channel>
+    <channel update="i" site="horizon.tv" site_id="NL/nld_lgi-nl-prod-master:8101__https://wp14-images-nl-dynamic.horizon.tv/ChannelLogos/02/ziggo_sport.png" xmltv_id="14">Ziggo Sport HD</channel>
+    <channel update="i" site="horizon.tv" site_id="NL/nld_lgi-nl-prod-master:4500__https://wp18-images-nl-dynamic.horizon.tv/ChannelLogos/02/comedy_central_hd.png" xmltv_id="15">Comedy Central HD</channel>
+    <channel update="i" site="horizon.tv" site_id="NL/nld_lgi-nl-prod-master:0020__https://wp14-images-nl-dynamic.horizon.tv/ChannelLogos/02/discovery_hd.png" xmltv_id="17">Discovery HD</channel>
+    <channel update="i" site="horizon.tv" site_id="NL/nld_lgi-nl-prod-master:0061__https://wp7-images-nl-dynamic.horizon.tv/ChannelLogos/02/nat_geo_v3.png" xmltv_id="18">National Geographic Channel HD</channel>
+    <channel update="i" site="horizon.tv" site_id="NL/nld_lgi-nl-prod-master:0039__https://wp20-images-nl-dynamic.horizon.tv/ChannelLogos/02/eurosport1_v2.png" xmltv_id="20">Eurosport 1 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="NL/nld_lgi-nl-prod-master:0242__https://wp13-images-nl-dynamic.horizon.tv/ChannelLogos/02/tlc_hd.png" xmltv_id="21">TLC HD</channel>
+    <channel update="i" site="horizon.tv" site_id="NL/nld_lgi-nl-prod-master:0058__https://wp23-images-nl-dynamic.horizon.tv/ChannelLogos/02/mtv_hd.png" xmltv_id="23">MTV HD</channel>
+    <channel update="i" site="horizon.tv" site_id="NL/nld_lgi-nl-prod-master:8317__https://wp14-images-nl-dynamic.horizon.tv/ChannelLogos/02/disney_channel_2.png" xmltv_id="27">Disney Channel HD</channel>
+    <channel update="i" site="horizon.tv" site_id="NL/nld_lgi-nl-prod-master:7000__https://wp6-images-nl-dynamic.horizon.tv/ChannelLogos/02/nickelodeon_v5.png" xmltv_id="29">Nickelodeon HD</channel>
+    <channel update="i" site="horizon.tv" site_id="NL/nld_lgi-nl-prod-master:4514__https://wp26-images-nl-dynamic.horizon.tv/ChannelLogos/02/ketnet_v2.png" xmltv_id="53">Ketnet</channel>
+  </channels>
+</site>
